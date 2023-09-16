@@ -3,7 +3,7 @@ A project made as a part of the Operating System Course (UE20CS254) at PES Unive
 
 ## Installation
 ```
-$ git clone https://github.com/yoyozaemon/OS-Task-Lister-using-Kernel-Module.git
+$ git clone https://github.com/Arvinnooli/OS-Task-Lister-using-Kernel-Module-master.git
 $ cd OS-Task-Lister-using-Kernel-Module/
 ```
 
